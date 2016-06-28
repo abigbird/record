@@ -1,8 +1,7 @@
 # record
-记录待办事项
-1.git如何与github交互
-参考网址
-http://blog.sina.com.cn/s/blog_63eb3eec0101cf6x.html
+git如何与github交互 \n
+参考网址 \n
+http://blog.sina.com.cn/s/blog_63eb3eec0101cf6x.html \n
 http://www.cnblogs.com/NetSos/p/4382448.html
 
 大致步骤：
