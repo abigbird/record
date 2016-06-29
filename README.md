@@ -43,3 +43,23 @@ http://www.cnblogs.com/NetSos/p/4382448.html
     
     //提交到远程
     git push -u origin master
+
+
+9 Fork别人的项目 
+
+如果仅仅想下载使用别人的代码，那么clone就可以了。 
+
+如果想要参与，可以fork，然后合并的方式。 
+
+*fork别人的项目，得到一个分支。 
+
+fork后得到的地址为，git@github.com:yesblue/wow.git 
+
+*复制代码到本地 
+
+$git clone git@github.com:yesblue/wow.git 
+
+*进行修改，并提请合并 
+
+$git pull person master
+
